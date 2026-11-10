@@ -7,20 +7,20 @@ import TodoForm from './TodoForm.jsx';
 
 const TodoBox = () => {
   // BEGIN (write your solution here)
-
+  
   // END
 
   const handleDeleteTask = (event, id) => {
     event.preventDefault();
     // BEGIN (write your solution here)
-
+    
     // END
   };
 
   const handleSubmitForm = (event, newTaskText) => {
     event.preventDefault();
     // BEGIN (write your solution here)
-
+    
     // END
   };
 
